@@ -1,0 +1,13 @@
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\bin\Debug\netcoreapp3.1\SA2.exe
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\bin\Debug\netcoreapp3.1\SA2.deps.json
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\bin\Debug\netcoreapp3.1\SA2.runtimeconfig.json
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\bin\Debug\netcoreapp3.1\SA2.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\bin\Debug\netcoreapp3.1\SA2.dll
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\bin\Debug\netcoreapp3.1\SA2.pdb
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\obj\Debug\netcoreapp3.1\SA2.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\obj\Debug\netcoreapp3.1\SA2.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\obj\Debug\netcoreapp3.1\SA2.AssemblyInfo.cs
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\obj\Debug\netcoreapp3.1\SA2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\obj\Debug\netcoreapp3.1\SA2.dll
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\obj\Debug\netcoreapp3.1\SA2.pdb
+C:\Users\Andre\Desktop\SA2_AndreLucas\SA2\SA2\obj\Debug\netcoreapp3.1\SA2.genruntimeconfig.cache
